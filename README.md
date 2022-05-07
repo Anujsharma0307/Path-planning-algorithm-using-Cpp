@@ -7,11 +7,15 @@ simulated 2D robot moving around a room.
 
 
 Major Learnings: In this assignment I have:
+
   •Practiced the programming skills such as:
+  
     – Pointers
     – Dynamic Memory Management 
     – Arrays
+    
   •Implement a medium size C++ program using predefined classes
+  
   •Use a prescribed set of C++11/14 language features
   
 Milestones:
