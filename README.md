@@ -30,6 +30,7 @@ How to Run:
 To compile this program, you will need to use a command similar to the following:
 
 g++ -Wall -Werror -std=c++14 -O -o assign1 Node.cpp NodeList.cpp PathPlanner.cpp main.cpp
+
 ./assign1
 
 
